@@ -72,3 +72,7 @@ Directly use a processed data file from the directory.
 
 ----------------------
 
+## Acknowledgement
+We would like to extend our heartfelt gratitude to Zaiku and Quantum Formalism for organizing and hosting the Zaiku QF Hackathon 2024. This event provided a remarkable platform for innovation, collaboration, and the exchange of ideas in the quantum computing community.
+
+Thank you for the opportunity to participate in this event, which has not only enriched our knowledge and skills but also connected us with a network of like-minded professionals and enthusiasts.
