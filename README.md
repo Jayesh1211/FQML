@@ -11,7 +11,7 @@
 |   **Member Names**| **Abdullah Kazi**                      | **Jayesh Hire** |
 |----------------|-----------------------------------|----------------------------|
 | **GitHub ID**  | AbdullahKazi500                   | Jayesh1211      |  
-|Role            | Idea formulation                  | Code and development |
+|Role            | Idea formulation and preparing documentation                 | Code and development |
 
 ----------------------
 
