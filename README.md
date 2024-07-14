@@ -29,7 +29,7 @@ On macOS and Linux:
 source venv/bin/activate
 ```
 #### 4. **Install Dependencies**
-Install the required dependencies listed in the 'requirements.txt' file:
+Install the required dependencies listed in the ['requirements.txt'](requirements.txt) file:
 
 #### 5. **Download the Dataset**
 Download the Brain Tumor dataset (data.zip) from (https://figshare.com/articles/dataset/brain_tumor_dataset/1512427/5)
