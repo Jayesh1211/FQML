@@ -34,11 +34,11 @@ Problem Statement
 Brain tumor classification is a critical problem in medical diagnosis, where timely and accurate identification of tumor types can significantly impact patient treatment outcomes. Traditional machine learning algorithms have been used to tackle this problem, but quantum machine learning (QML) offers the potential for improved accuracy and efficiency due to the unique computational capabilities of quantum systems.
 
 Objectives
-Accurate Classification: Develop a quantum machine learning model to classify different types of brain tumors from MRI images.
-Efficient Data Processing: Implement efficient data processing techniques to handle and preprocess medical imaging data.
-Federated Learning: Utilize federated learning (FL) techniques to train the model across multiple clients while preserving data privacy.
-Quantum Model Training: Leverage quantum algorithms, specifically Variational Quantum Classifiers (VQC), for training and inference.
-Performance Evaluation: Evaluate the model's performance using various metrics and compare it with classical machine learning models.
+- Accurate Classification: Develop a quantum machine learning model to classify different types of brain tumors from MRI images.
+- Efficient Data Processing: Implement efficient data processing techniques to handle and preprocess medical imaging data.
+- Federated Learning: Utilize federated learning (FL) techniques to train the model across multiple clients while preserving data privacy.
+- Quantum Model Training: Leverage quantum algorithms, specifically Variational Quantum Classifiers (VQC), for training and inference.
+- Performance Evaluation: Evaluate the model's performance using various metrics and compare it with classical machine learning models.
 
 ## Setup Instructions
 
