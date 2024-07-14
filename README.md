@@ -63,6 +63,8 @@ Install the required dependencies listed in the ['requirements.txt'](requirement
 
 #### 5. **Download the Dataset**
 Download the Brain Tumor dataset (data.zip) from (https://figshare.com/articles/dataset/brain_tumor_dataset/1512427/5)
+Or 
+Directly use a processed data file from the directory.
 
 
 
