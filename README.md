@@ -31,7 +31,7 @@ Objectives
 - Efficient Data Processing: Implement efficient data processing techniques to handle and preprocess medical imaging data.
 - Federated Learning: Utilize federated learning (FL) techniques to train the model across multiple clients while preserving data privacy.
 - Quantum Model Training: Leverage quantum algorithms, specifically Variational Quantum Classifiers (VQC), for training and inference.
-- Performance Evaluation: Evaluate the model's performance using various metrics and compare it with classical machine learning models.
+
 
 ## Setup Instructions
 
