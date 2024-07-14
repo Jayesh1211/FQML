@@ -65,6 +65,7 @@ Directly use a processed data file from the directory.
 -  `PULSAR_FQML.ipynb` - Contains notebook for training pulsar dataset.
  - `processed_data.npz` - contains processed MRI Data
  - `pulsar.csv` - Contains Pulsar data
+ - `Zaiku_Hackathon (1)`- The slide PDF Explaining the work
 
 
 ## Team Introduction
