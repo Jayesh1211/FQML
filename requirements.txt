@@ -4,4 +4,5 @@ h5py
 opencv-python
 scikit-learn
 numpy
-qiskit
+qiskit==1.0
+
