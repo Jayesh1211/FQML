@@ -1,4 +1,34 @@
-# FQML
+**QF Hackathon 2024**
+# :space_invader: Quantum Federated machine learning - Team Feynman Prodigies 
+
+- [Team Introduction](#team-introduction)
+- [Problem Statement](#ProblemStatement)
+  - [Description](#description)
+- [Objectives](#Objectives)
+- [Installation](#Installation)
+- [Software & Tools Used](#software--tools-used)
+- [Results](#Results)
+- [Future Plans](#future-plans)
+- [License](#license)
+- [Acknowledgement](#Acknowledgement)
+- [References](#references)
+
+## Team Introduction
+**Team Name:** Feynman Prodigies 
+
+|   **Member Names**| **Abdullah Kazi**                      | **Jayesh Hire** |
+|----------------|-----------------------------------|----------------------------|
+| **GitHub ID**  | AbdullahKazi500                   | Jayesh1211      |  
+
+----------------------
+
+
+## Problem Statement
+
+
+
+
+## Challenge Description 
 
 ### Setup Instructions:
 
