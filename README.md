@@ -5,15 +5,7 @@
 - [ Setup Instructions](#SetupInstructions)
 -  [Team Introduction](#team-introduction)
 - [Acknowledgement](#Acknowledgement)
-## Team Introduction
-**Team Name:** Feynman Prodigies 
 
-|   **Member Names**| **Abdullah Kazi**                      | **Jayesh Hire** |
-|----------------|-----------------------------------|----------------------------|
-| **GitHub ID**  | AbdullahKazi500                   | Jayesh1211      |  
-|Role            | Idea formulation and preparing documentation                 | Code and development |
-
-----------------------
 
 
 
@@ -70,5 +62,13 @@ Or
 Directly use a processed data file from the directory.
 
 
+## Team Introduction
+**Team Name:** Feynman Prodigies 
 
+|   **Member Names**| **Abdullah Kazi**                      | **Jayesh Hire** |
+|----------------|-----------------------------------|----------------------------|
+| **GitHub ID**  | AbdullahKazi500                   | Jayesh1211      |  
+|Role            | Idea formulation and preparing documentation                 | Code and development |
+
+----------------------
 
