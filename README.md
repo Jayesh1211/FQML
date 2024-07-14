@@ -1,15 +1,10 @@
 **QF Hackathon 2024**
 # :space_invader: Quantum Federated machine learning - Team Feynman Prodigies 
 
-- [Team Introduction](#team-introduction)
-- [Problem Statement](#ProblemStatement)
-  - [Description](#description)
+  - [Project Description](#Projectdescription)
 - [ Setup Instructions](#SetupInstructions)
-- [Software & Tools Used](#software--tools-used)
-- [License](#license)
+-  [Team Introduction](#team-introduction)
 - [Acknowledgement](#Acknowledgement)
-- [References](#references)
-
 ## Team Introduction
 **Team Name:** Feynman Prodigies 
 
