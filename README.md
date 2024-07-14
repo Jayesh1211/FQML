@@ -5,7 +5,7 @@
 - [Problem Statement](#ProblemStatement)
   - [Description](#description)
 - [Objectives](#Objectives)
-- [Installation](#Installation)
+- [ Setup Instructions](#SetupInstructions)
 - [Software & Tools Used](#software--tools-used)
 - [Results](#Results)
 - [Future Plans](#future-plans)
@@ -30,7 +30,7 @@
 
 ## Challenge Description 
 
-### Setup Instructions:
+## Setup Instructions:
 
 #### 1. **Clone the Repository**
 
