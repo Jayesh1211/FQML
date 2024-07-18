@@ -7,7 +7,7 @@
 - [Acknowledgement](#Acknowledgement)
 
 
-
+Updated on 18 July 2024-   We have updated the repository for more clarity and explanation on the steps with the given PDF [PDF](https://github.com/Jayesh1211/FQML/blob/main/Explanation.pdf) Here 
 
 
 
